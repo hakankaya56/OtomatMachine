@@ -1,0 +1,12 @@
+D:\MyProjects\OdeAl\OtomatMachine\src\Shared\OtomatMachine.Shared\bin\Debug\net5.0\OtomatMachine.Shared.deps.json
+D:\MyProjects\OdeAl\OtomatMachine\src\Shared\OtomatMachine.Shared\bin\Debug\net5.0\OtomatMachine.Shared.dll
+D:\MyProjects\OdeAl\OtomatMachine\src\Shared\OtomatMachine.Shared\bin\Debug\net5.0\ref\OtomatMachine.Shared.dll
+D:\MyProjects\OdeAl\OtomatMachine\src\Shared\OtomatMachine.Shared\bin\Debug\net5.0\OtomatMachine.Shared.pdb
+D:\MyProjects\OdeAl\OtomatMachine\src\Shared\OtomatMachine.Shared\obj\Debug\net5.0\OtomatMachine.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\OdeAl\OtomatMachine\src\Shared\OtomatMachine.Shared\obj\Debug\net5.0\OtomatMachine.Shared.AssemblyInfoInputs.cache
+D:\MyProjects\OdeAl\OtomatMachine\src\Shared\OtomatMachine.Shared\obj\Debug\net5.0\OtomatMachine.Shared.AssemblyInfo.cs
+D:\MyProjects\OdeAl\OtomatMachine\src\Shared\OtomatMachine.Shared\obj\Debug\net5.0\OtomatMachine.Shared.csproj.CoreCompileInputs.cache
+D:\MyProjects\OdeAl\OtomatMachine\src\Shared\OtomatMachine.Shared\obj\Debug\net5.0\OtomatMachine.Shared.dll
+D:\MyProjects\OdeAl\OtomatMachine\src\Shared\OtomatMachine.Shared\obj\Debug\net5.0\ref\OtomatMachine.Shared.dll
+D:\MyProjects\OdeAl\OtomatMachine\src\Shared\OtomatMachine.Shared\obj\Debug\net5.0\OtomatMachine.Shared.pdb
+D:\MyProjects\OdeAl\OtomatMachine\src\Shared\OtomatMachine.Shared\obj\Debug\net5.0\OtomatMachine.Shared.csproj.AssemblyReference.cache

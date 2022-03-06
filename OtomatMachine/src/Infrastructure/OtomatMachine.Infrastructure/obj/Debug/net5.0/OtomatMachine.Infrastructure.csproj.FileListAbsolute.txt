@@ -1,0 +1,15 @@
+D:\MyProjects\OdeAl\OtomatMachine\src\Infrastructure\OtomatMachine.Infrastructure\bin\Debug\net5.0\OtomatMachine.Infrastructure.deps.json
+D:\MyProjects\OdeAl\OtomatMachine\src\Infrastructure\OtomatMachine.Infrastructure\bin\Debug\net5.0\OtomatMachine.Infrastructure.dll
+D:\MyProjects\OdeAl\OtomatMachine\src\Infrastructure\OtomatMachine.Infrastructure\bin\Debug\net5.0\ref\OtomatMachine.Infrastructure.dll
+D:\MyProjects\OdeAl\OtomatMachine\src\Infrastructure\OtomatMachine.Infrastructure\bin\Debug\net5.0\OtomatMachine.Infrastructure.pdb
+D:\MyProjects\OdeAl\OtomatMachine\src\Infrastructure\OtomatMachine.Infrastructure\bin\Debug\net5.0\OtomatMachine.Domain.dll
+D:\MyProjects\OdeAl\OtomatMachine\src\Infrastructure\OtomatMachine.Infrastructure\bin\Debug\net5.0\OtomatMachine.Domain.pdb
+D:\MyProjects\OdeAl\OtomatMachine\src\Infrastructure\OtomatMachine.Infrastructure\obj\Debug\net5.0\OtomatMachine.Infrastructure.csproj.AssemblyReference.cache
+D:\MyProjects\OdeAl\OtomatMachine\src\Infrastructure\OtomatMachine.Infrastructure\obj\Debug\net5.0\OtomatMachine.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\OdeAl\OtomatMachine\src\Infrastructure\OtomatMachine.Infrastructure\obj\Debug\net5.0\OtomatMachine.Infrastructure.AssemblyInfoInputs.cache
+D:\MyProjects\OdeAl\OtomatMachine\src\Infrastructure\OtomatMachine.Infrastructure\obj\Debug\net5.0\OtomatMachine.Infrastructure.AssemblyInfo.cs
+D:\MyProjects\OdeAl\OtomatMachine\src\Infrastructure\OtomatMachine.Infrastructure\obj\Debug\net5.0\OtomatMachine.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MyProjects\OdeAl\OtomatMachine\src\Infrastructure\OtomatMachine.Infrastructure\obj\Debug\net5.0\OtomatMachine.Infrastructure.dll
+D:\MyProjects\OdeAl\OtomatMachine\src\Infrastructure\OtomatMachine.Infrastructure\obj\Debug\net5.0\ref\OtomatMachine.Infrastructure.dll
+D:\MyProjects\OdeAl\OtomatMachine\src\Infrastructure\OtomatMachine.Infrastructure\obj\Debug\net5.0\OtomatMachine.Infrastructure.pdb
+D:\MyProjects\OdeAl\OtomatMachine\src\Infrastructure\OtomatMachine.Infrastructure\obj\Debug\net5.0\OtomatMachine.Infrastructure.csproj.CopyComplete

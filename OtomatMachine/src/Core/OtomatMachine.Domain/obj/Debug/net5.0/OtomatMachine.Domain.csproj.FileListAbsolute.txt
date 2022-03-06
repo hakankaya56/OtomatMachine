@@ -1,0 +1,12 @@
+D:\MyProjects\OdeAl\OtomatMachine\src\Core\OtomatMachine.Domain\bin\Debug\net5.0\OtomatMachine.Domain.deps.json
+D:\MyProjects\OdeAl\OtomatMachine\src\Core\OtomatMachine.Domain\bin\Debug\net5.0\OtomatMachine.Domain.dll
+D:\MyProjects\OdeAl\OtomatMachine\src\Core\OtomatMachine.Domain\bin\Debug\net5.0\ref\OtomatMachine.Domain.dll
+D:\MyProjects\OdeAl\OtomatMachine\src\Core\OtomatMachine.Domain\bin\Debug\net5.0\OtomatMachine.Domain.pdb
+D:\MyProjects\OdeAl\OtomatMachine\src\Core\OtomatMachine.Domain\obj\Debug\net5.0\OtomatMachine.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\OdeAl\OtomatMachine\src\Core\OtomatMachine.Domain\obj\Debug\net5.0\OtomatMachine.Domain.AssemblyInfoInputs.cache
+D:\MyProjects\OdeAl\OtomatMachine\src\Core\OtomatMachine.Domain\obj\Debug\net5.0\OtomatMachine.Domain.AssemblyInfo.cs
+D:\MyProjects\OdeAl\OtomatMachine\src\Core\OtomatMachine.Domain\obj\Debug\net5.0\OtomatMachine.Domain.csproj.CoreCompileInputs.cache
+D:\MyProjects\OdeAl\OtomatMachine\src\Core\OtomatMachine.Domain\obj\Debug\net5.0\OtomatMachine.Domain.dll
+D:\MyProjects\OdeAl\OtomatMachine\src\Core\OtomatMachine.Domain\obj\Debug\net5.0\ref\OtomatMachine.Domain.dll
+D:\MyProjects\OdeAl\OtomatMachine\src\Core\OtomatMachine.Domain\obj\Debug\net5.0\OtomatMachine.Domain.pdb
+D:\MyProjects\OdeAl\OtomatMachine\src\Core\OtomatMachine.Domain\obj\Debug\net5.0\OtomatMachine.Domain.csproj.AssemblyReference.cache
